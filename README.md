@@ -1,4 +1,4 @@
-# UnityConstants
+# Unity Constants
 
 Based on UnityToolbag by [Nick Gravelyn](https://github.com/nickgravelyn/UnityToolbag/tree/master/UnityConstants).
 
