@@ -42,3 +42,11 @@ It will generate a file similar to this:
             public const int Tutorial = 1;
         }
     }
+
+# Installation
+
+Copy the `Scripts` folder into your project's `Assets` folder.
+
+# Usage
+
+Use the `Edit/Generate Unity Constants` menu item to generate a `UnityConstants.cs` file.
