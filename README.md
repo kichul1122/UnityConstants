@@ -50,3 +50,7 @@ Copy the `Scripts` folder into your project's `Assets` folder.
 # Usage
 
 Use the `Edit/Generate Unity Constants` menu item to generate a `UnityConstants.cs` file.
+
+# License
+
+Unity Constants is licensed under the MIT license.
